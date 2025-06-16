@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://thomas-wit.github.io/sitemap.xml
+Sitemap: https://thomaswitney.com/sitemap.xml
