@@ -34,7 +34,7 @@ I leverage my strength in math and quantitative thinking to use data-oriented me
 
 My belief is that statistics should be on the front lines of any effort to create positive change. I echo Daniel Kahneman's sentiment that we should all think like statisticians, as it fosters critical thinking that help us recognize nuance, make wiser decisions and create happier relationships.
 
-I am currently looking for work, either contract/freelance or as an employee, where I can use my skills to further causes aligned with my above-mentioned goals.
+I am currently looking for work, either contract/freelance (see website for [Wit^2](https://witsquared.com)) or as an employee, where I can use my skills to further causes aligned with my above-mentioned goals.
 Outside of my quantitative pursuits, you can find me playing with my daughter, hanging out with my wife, being a nerd with some friends, exploring nature by foot or bike, or throwing a yo-yo.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
